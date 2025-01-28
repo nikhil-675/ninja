@@ -136,3 +136,9 @@
 7. **Valid Sudoku (Group & Sort Groups)**
 8. **Valid Parentheses (Optimized Checks)**
 9. **Fibonacci in Range**
+
+
+# Theory
+
+1. Paint Porperty
+2.
