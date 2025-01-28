@@ -5,6 +5,9 @@
 *.slo
 *.lo
 *.o
+*.vscode
+launch.json
+settings.json
 *.obj
 *.json
 outDebug
