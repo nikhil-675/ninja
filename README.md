@@ -141,4 +141,6 @@
 # Theory
 
 1. Paint Porperty
-2.
+2. String remove vowel, count vowels, freq of vowels
+3. Shop with alphanumeric code (1xyz23) = 24
+4. 
